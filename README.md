@@ -62,4 +62,4 @@ Student Adam enrolled in Industry Systems Project.
 Instructor Mr Goh assigned to Industry Systems Project.
 
 # References
-Provide the references that you have used to support your assignment. 
+I used ChatGPT to help me debug my program at the end as i had many spelling issues.
